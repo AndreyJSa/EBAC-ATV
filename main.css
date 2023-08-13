@@ -1,0 +1,23 @@
+h1 {
+    color: blue;
+}
+
+#sports h2 {
+
+    color: green;
+}
+
+#economy h2 {
+
+    color: gold;
+}
+
+#Game h2 {
+
+    color: rgb(35, 245, 234);
+}
+
+#tecnology h2 {
+
+    color: red;
+}
